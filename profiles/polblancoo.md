@@ -1,4 +1,4 @@
-# Pablo Blancoo
+# Pablo Blanco
 
 Highly motivated and results-oriented software engineer with a strong passion for decentralized technologies.
 
