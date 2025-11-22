@@ -43,6 +43,7 @@ Leveraging extensive experience in Rust to build robust and efficient solutions 
 ## Skills
 
 *   Rust
+*   Move (Sui)
 *   Blockchain Technology
 *   ink! (Rust eDSL for Smart Contracts)
 *   Smart Contract Development
