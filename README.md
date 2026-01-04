@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is  Pablo Blanco.</h2>
+<h2 align="left">Hi 👋! I'm Pablo Blanco</h2>
+<h3 align="left">A Blockchain Developer focused on Rust and Smart Contracts</h3>
 
 ###
 
@@ -7,13 +8,32 @@
 ###
 
 <div align="left">
+  <!-- Rust (Crab Emblem) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <!-- Solana -->
+  <img src="https://raw.githubusercontent.com/solana-labs/branding/main/Logos/SVG/Solana_Logo_Black.svg" height="30" alt="solana logo" style="background:white; padding:2px; border-radius:4px;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <!-- Sui -->
+  <img src="https://sui.io/img/sui-logomark.svg" height="30" alt="sui logo" />
+  <img width="12" />
+  <!-- Polkadot -->
+  <img src="https://raw.githubusercontent.com/paritytech/polkadot-branding/main/logos/svg/polkadot_token_pink.svg" height="30" alt="polkadot logo" />
+  <img width="12" />
+  <!-- Ethereum -->
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" height="30" alt="ethereum logo" />
+</div>
+
+###
+<p align="left">I'm a software engineer specializing in <b>Rust</b> and blockchain technologies. My work focuses on building high-performance applications and secure smart contracts for leading blockchain ecosystems.</p>
+<p align="left"> <b>Core Expertise:</b> <br> • Rust applications with direct connections to <b>Solana</b>, <b>Sui</b>, <b>Polkadot</b>, and <b>Ethereum</b> blockchains[citation:3].<br> • Smart contract development for <b>Polkadot</b> (Substrate pallets), <b>Sui</b> (Move), and <b>Solana</b> (Native programs).</p>
+<p align="left"><b>Currently:</b> Deepening my contributions to open-source blockchain infrastructure and exploring innovative use cases for decentralized systems.</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
