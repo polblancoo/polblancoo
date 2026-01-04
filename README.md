@@ -36,12 +36,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Este widget mostrará:
-- Total de contribuciones (incluye proyectos privados)
-- Repositorios públicos
-- Pull Requests
-- Issues
-- Commits totales
+
 
 ### 💼 Professional Overview
 
