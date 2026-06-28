@@ -34,7 +34,7 @@
 
 ### 📊 Development Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polblancoo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
