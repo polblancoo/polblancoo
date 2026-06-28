@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="30" alt="rust logo" />
   <img width="12" />
   <!-- TypeScript badge -->
+ <!-- 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo" />
   <img width="12" />
+  -->
   <!-- React badge -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo" />
   <img width="12" />
@@ -30,7 +32,15 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="30" alt="ethereum logo" />
 </div>
 
-###
+### 📊 Development Current
+![Last Commit](https://img.shields.io/github/last-commit/polblancoo/polblancoo?style=for-the-badge&logo=github&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=polblancoo&color=blue&style=for-the-badge)
+### 🔨 Currently Working On
+- 🦀 "Building a DeFi protocol analytic on Tao Eccosistem and Hype  with ..."
+- Rust 
+- Dioxus
+- btcli
+- more...
 
 ### 📊 Development Activity
 
@@ -54,7 +64,7 @@
 <p align="left"><b>Core Expertise:</b></p>
 <ul align="left">
   <li>Rust applications with direct connections to <b>Solana, Sui, Polkadot, and Ethereum</b> blockchains</li>
-  <li>Smart contract development for <b>Polkadot</b> (Substrate pallets), <b>Sui</b> (Move), and <b>Solana</b> (Native programs)</li>
+  <li>Smart contract development for <b>Polkadot</b> (Substrate pallets),<b>Tao</b> (Rust-App Blockchain), <b>Sui</b> (Move), and <b>Solana</b> (Native programs)</li>
 </ul>
 
 <p align="left"><b>Currently:</b> Deepening my contributions to open-source blockchain infrastructure and exploring innovative use cases for decentralized systems.</p>
