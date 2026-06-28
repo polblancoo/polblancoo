@@ -36,7 +36,16 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polblancoo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polblancoo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polblancoo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polblancoo&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ### 💼 Professional Overview
 
