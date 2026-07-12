@@ -29,8 +29,14 @@
 </div>
 
 ### 📊 Development Current
-![GitHub User's stars](https://img.shields.io/github/stars/polblancoo?style=social)
-![GitHub followers](https://img.shields.io/github/followers/polblancoo?style=social)
+Bittensor TAO Collector System
+
+API Consumer for data ingestion
+Web App for service delivery and data visualization
+Integrated AI for app interaction (web API) with Bittensor
+***********
+Development of a comprehensive collector system for the Bittensor TAO network, featuring an API consumer layer, a web application for data visualization and service delivery, and integrated artificial intelligence for seamless interaction with the Bittensor web API.
+
 ### 🔨 Currently Working On
 - 🦀 "Building a DeFi protocol analytic on Tao Eccosistem and Hype  with ..."
 - Rust 
@@ -40,7 +46,8 @@
 
 ### 📊 Development Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polblancoo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub User's stars](https://img.shields.io/github/stars/polblancoo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/polblancoo?style=social)
 
 ### 📊 GitHub Analytics
 
