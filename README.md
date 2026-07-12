@@ -13,12 +13,8 @@
   <img width="12" />
   <!-- TypeScript badge -->
  <!-- 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo" />
-  <img width="12" />
+   
   -->
-  <!-- React badge -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo" />
-  <img width="12" />
   <!-- Solana badge -->
   <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" height="30" alt="solana logo" />
   <img width="12" />
@@ -33,7 +29,7 @@
 </div>
 
 ### 📊 Development Current
-![Last Commit](https://img.shields.io/github/last-commit/polblancoo/polblancoo?style=for-the-badge&logo=github&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/polblancoo/tao_bot?style=for-the-badge&logo=github&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=polblancoo&color=blue&style=for-the-badge)
 ### 🔨 Currently Working On
 - 🦀 "Building a DeFi protocol analytic on Tao Eccosistem and Hype  with ..."
