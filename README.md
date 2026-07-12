@@ -29,8 +29,8 @@
 </div>
 
 ### 📊 Development Current
-![Last Commit](https://img.shields.io/github/last-commit/polblancoo/tao_bot?style=for-the-badge&logo=github&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=polblancoo&color=blue&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/polblancoo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/polblancoo?style=social)
 ### 🔨 Currently Working On
 - 🦀 "Building a DeFi protocol analytic on Tao Eccosistem and Hype  with ..."
 - Rust 
