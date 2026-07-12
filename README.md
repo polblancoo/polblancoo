@@ -24,10 +24,7 @@
   <!-- Polkadot badge -->
   <img src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" height="30" alt="polkadot logo" />
   <img width="12" />
-  <!-- Ethereum badge -->
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="30" alt="ethereum logo" />
-</div>
-
+ 
 ### 📊 Development Current
 Bittensor TAO Collector System
 
@@ -66,7 +63,7 @@ Development of a comprehensive collector system for the Bittensor TAO network, f
 
 <p align="left"><b>Core Expertise:</b></p>
 <ul align="left">
-  <li>Rust applications with direct connections to <b>Solana, Sui, Polkadot, and Ethereum</b> blockchains</li>
+  <li>Rust applications with direct connections to <b>Solana, Sui, Polkadot</b> blockchains</li>
   <li>Smart contract development for <b>Polkadot</b> (Substrate pallets),<b>Tao</b> (Rust-App Blockchain), <b>Sui</b> (Move), and <b>Solana</b> (Native programs)</li>
 </ul>
 
