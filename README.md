@@ -33,7 +33,7 @@
 
 -Tubetui Term youtube (tabs downloads, video, music in term) Lic. Mit.
 
--DonPoker App (Comprehensive online Pokjer School, management of own players, open school)
+-DonPoker App (Comprehensive online Poker School, management of own players, open school)
 
 ***********
 Development of a comprehensive collector system for the Bittensor TAO network, featuring an API consumer layer, a web application for data visualization and service delivery, and integrated artificial intelligence for seamless interaction with the Bittensor web API.
