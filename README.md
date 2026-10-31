@@ -26,6 +26,11 @@
   <img width="12" />
  
 ### 📊 Development Current
+-DonPoker.io App / Poker school, training. Desktop app for hand analysis.
+hhtps://donpoker.io
+
+-CrewHelm : A dashboard platform for task distribution across teams and projects, featuring AI as an integral part of the team. Includes expense tracking (via tokens) per project/team, as well as a calendar, Gantt charts, and a whiteboard. The platform can be hosted on a server—utilizing either local or paid AI models—allowing team members to connect and collaborate on their respective projects while working alongside the AI.
+
 -Bittensor TAO Collector System
  API Consumer for data ingestion
  Web App for service delivery and data visualization
